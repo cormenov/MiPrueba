@@ -4,3 +4,7 @@ library (dplyr)
   Autor: Carlos Ormeño
   Title: Primer Script Borrador
 '
+
+#Creando una función suma
+suma = function (x,y){
+  x + y}
